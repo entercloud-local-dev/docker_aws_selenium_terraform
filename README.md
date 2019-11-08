@@ -11,7 +11,7 @@ An example configuration demonstrating Selenium Grid via Docker on AWS via Terra
 ## Install
 
 ```bash
-git clone https://github.com/davidjeddy/docker_aws_selenium_terraform.git
+git clone https://github.com/entercloud-local-dev/docker_aws_selenium_terraform.git
 cd ./docker_aws_selenium_terraform
 cp .env.dist .env
 vim .env
